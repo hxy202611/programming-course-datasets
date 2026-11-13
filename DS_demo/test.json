@@ -1,0 +1,839 @@
+[
+  {
+    "sid": 1,
+    "qid": 72,
+    "kid": "10",
+    "response_duration": 271.0,
+    "exec_time": 1.62,
+    "memory": 789.97,
+    "label": 1
+  },
+  {
+    "sid": 1,
+    "qid": 77,
+    "kid": "10",
+    "response_duration": 91.0,
+    "exec_time": 2.36,
+    "memory": 665.13,
+    "label": 1
+  },
+  {
+    "sid": 1,
+    "qid": 71,
+    "kid": "10",
+    "response_duration": 73.0,
+    "exec_time": 1.4,
+    "memory": 812.49,
+    "label": 0
+  },
+  {
+    "sid": 1,
+    "qid": 65,
+    "kid": "4,8",
+    "response_duration": 672.0,
+    "exec_time": 1.86,
+    "memory": 842.17,
+    "label": 1
+  },
+  {
+    "sid": 1,
+    "qid": 78,
+    "kid": "10,11,12",
+    "response_duration": 130.0,
+    "exec_time": 1.76,
+    "memory": 975.89,
+    "label": 1
+  },
+  {
+    "sid": 2,
+    "qid": 6,
+    "kid": "4,13,14",
+    "response_duration": 782.0,
+    "exec_time": 0.06,
+    "memory": 17.09,
+    "label": 0
+  },
+  {
+    "sid": 2,
+    "qid": 54,
+    "kid": "11,12",
+    "response_duration": 636.0,
+    "exec_time": 0.04,
+    "memory": 94.73,
+    "label": 0
+  },
+  {
+    "sid": 2,
+    "qid": 12,
+    "kid": "4",
+    "response_duration": 133.0,
+    "exec_time": 0.09,
+    "memory": 98.18,
+    "label": 1
+  },
+  {
+    "sid": 2,
+    "qid": 42,
+    "kid": "10",
+    "response_duration": 174.0,
+    "exec_time": 0.04,
+    "memory": 86.94,
+    "label": 0
+  },
+  {
+    "sid": 2,
+    "qid": 76,
+    "kid": "10",
+    "response_duration": 125.0,
+    "exec_time": 1.68,
+    "memory": 827.05,
+    "label": 1
+  },
+  {
+    "sid": 3,
+    "qid": 71,
+    "kid": "10",
+    "response_duration": 74.0,
+    "exec_time": 1.63,
+    "memory": 662.11,
+    "label": 1
+  },
+  {
+    "sid": 3,
+    "qid": 13,
+    "kid": "4",
+    "response_duration": 115.0,
+    "exec_time": 0.06,
+    "memory": 96.09,
+    "label": 1
+  },
+  {
+    "sid": 3,
+    "qid": 42,
+    "kid": "10",
+    "response_duration": 260.0,
+    "exec_time": 0.03,
+    "memory": 92.79,
+    "label": 1
+  },
+  {
+    "sid": 3,
+    "qid": 66,
+    "kid": "4,8",
+    "response_duration": 248.0,
+    "exec_time": 1.76,
+    "memory": 664.32,
+    "label": 0
+  },
+  {
+    "sid": 3,
+    "qid": 39,
+    "kid": "10",
+    "response_duration": 218.0,
+    "exec_time": 0.03,
+    "memory": 93.56,
+    "label": 1
+  },
+  {
+    "sid": 4,
+    "qid": 5,
+    "kid": "1,4",
+    "response_duration": 114.0,
+    "exec_time": 0.04,
+    "memory": 15.3,
+    "label": 1
+  },
+  {
+    "sid": 4,
+    "qid": 24,
+    "kid": "10",
+    "response_duration": 111.0,
+    "exec_time": 0.04,
+    "memory": 95.46,
+    "label": 1
+  },
+  {
+    "sid": 4,
+    "qid": 10,
+    "kid": "4,10",
+    "response_duration": 256.0,
+    "exec_time": 0.04,
+    "memory": 94.18,
+    "label": 1
+  },
+  {
+    "sid": 4,
+    "qid": 40,
+    "kid": "10",
+    "response_duration": 83.0,
+    "exec_time": 0.06,
+    "memory": 95.08,
+    "label": 1
+  },
+  {
+    "sid": 4,
+    "qid": 78,
+    "kid": "10,11,12",
+    "response_duration": 273.0,
+    "exec_time": 1.47,
+    "memory": 842.23,
+    "label": 0
+  },
+  {
+    "sid": 5,
+    "qid": 63,
+    "kid": "4,16",
+    "response_duration": 691.0,
+    "exec_time": 0.25,
+    "memory": 944.81,
+    "label": 1
+  },
+  {
+    "sid": 5,
+    "qid": 75,
+    "kid": "9,10",
+    "response_duration": 179.0,
+    "exec_time": 1.33,
+    "memory": 741.41,
+    "label": 0
+  },
+  {
+    "sid": 5,
+    "qid": 43,
+    "kid": "10",
+    "response_duration": 551.0,
+    "exec_time": 0.1,
+    "memory": 113.71,
+    "label": 0
+  },
+  {
+    "sid": 5,
+    "qid": 18,
+    "kid": "3,8,10",
+    "response_duration": 76.0,
+    "exec_time": 0.13,
+    "memory": 89.41,
+    "label": 1
+  },
+  {
+    "sid": 6,
+    "qid": 25,
+    "kid": "10",
+    "response_duration": 716.0,
+    "exec_time": 0.04,
+    "memory": 92.54,
+    "label": 1
+  },
+  {
+    "sid": 6,
+    "qid": 34,
+    "kid": "10",
+    "response_duration": 171.0,
+    "exec_time": 0.04,
+    "memory": 92.44,
+    "label": 1
+  },
+  {
+    "sid": 6,
+    "qid": 42,
+    "kid": "10",
+    "response_duration": 272.0,
+    "exec_time": 0.03,
+    "memory": 94.47,
+    "label": 0
+  },
+  {
+    "sid": 6,
+    "qid": 76,
+    "kid": "10",
+    "response_duration": 99.0,
+    "exec_time": 1.35,
+    "memory": 758.11,
+    "label": 1
+  },
+  {
+    "sid": 6,
+    "qid": 74,
+    "kid": "3,10",
+    "response_duration": 205.0,
+    "exec_time": 1.38,
+    "memory": 845.25,
+    "label": 0
+  },
+  {
+    "sid": 7,
+    "qid": 54,
+    "kid": "11,12",
+    "response_duration": 828.0,
+    "exec_time": 0.04,
+    "memory": 85.33,
+    "label": 0
+  },
+  {
+    "sid": 7,
+    "qid": 64,
+    "kid": "4,6,16",
+    "response_duration": 172.0,
+    "exec_time": 0.27,
+    "memory": 822.75,
+    "label": 0
+  },
+  {
+    "sid": 7,
+    "qid": 71,
+    "kid": "10",
+    "response_duration": 52.0,
+    "exec_time": 1.74,
+    "memory": 780.67,
+    "label": 1
+  },
+  {
+    "sid": 8,
+    "qid": 61,
+    "kid": "1,4",
+    "response_duration": 351.0,
+    "exec_time": 0.22,
+    "memory": 927.92,
+    "label": 1
+  },
+  {
+    "sid": 8,
+    "qid": 25,
+    "kid": "10",
+    "response_duration": 175.0,
+    "exec_time": 0.04,
+    "memory": 84.91,
+    "label": 0
+  },
+  {
+    "sid": 8,
+    "qid": 75,
+    "kid": "9,10",
+    "response_duration": 255.0,
+    "exec_time": 1.22,
+    "memory": 718.55,
+    "label": 1
+  },
+  {
+    "sid": 8,
+    "qid": 66,
+    "kid": "4,8",
+    "response_duration": 291.0,
+    "exec_time": 2.06,
+    "memory": 714.67,
+    "label": 1
+  },
+  {
+    "sid": 9,
+    "qid": 9,
+    "kid": "4,14,15,17",
+    "response_duration": 553.0,
+    "exec_time": 0.04,
+    "memory": 23.34,
+    "label": 1
+  },
+  {
+    "sid": 9,
+    "qid": 59,
+    "kid": "10",
+    "response_duration": 46.0,
+    "exec_time": 0.0,
+    "memory": 0.0,
+    "label": 0
+  },
+  {
+    "sid": 9,
+    "qid": 11,
+    "kid": "3,10",
+    "response_duration": 104.0,
+    "exec_time": 1.47,
+    "memory": 818.69,
+    "label": 1
+  },
+  {
+    "sid": 9,
+    "qid": 48,
+    "kid": "11,19",
+    "response_duration": 214.0,
+    "exec_time": 1.47,
+    "memory": 783.68,
+    "label": 0
+  },
+  {
+    "sid": 10,
+    "qid": 90,
+    "kid": "9,10",
+    "response_duration": 204.0,
+    "exec_time": 0.03,
+    "memory": 93.49,
+    "label": 0
+  },
+  {
+    "sid": 10,
+    "qid": 56,
+    "kid": "10",
+    "response_duration": 25.0,
+    "exec_time": 0.0,
+    "memory": 0.0,
+    "label": 0
+  },
+  {
+    "sid": 10,
+    "qid": 28,
+    "kid": "10",
+    "response_duration": 22.0,
+    "exec_time": 1.89,
+    "memory": 671.97,
+    "label": 1
+  },
+  {
+    "sid": 10,
+    "qid": 47,
+    "kid": "3,4,8,19",
+    "response_duration": 124.0,
+    "exec_time": 1.99,
+    "memory": 840.36,
+    "label": 0
+  },
+  {
+    "sid": 11,
+    "qid": 89,
+    "kid": "10",
+    "response_duration": 204.0,
+    "exec_time": 0.03,
+    "memory": 93.67,
+    "label": 1
+  },
+  {
+    "sid": 11,
+    "qid": 93,
+    "kid": "10",
+    "response_duration": 158.0,
+    "exec_time": 0.03,
+    "memory": 93.85,
+    "label": 0
+  },
+  {
+    "sid": 11,
+    "qid": 80,
+    "kid": "7,10",
+    "response_duration": 192.0,
+    "exec_time": 1.59,
+    "memory": 659.48,
+    "label": 0
+  },
+  {
+    "sid": 11,
+    "qid": 31,
+    "kid": "10",
+    "response_duration": 41.0,
+    "exec_time": 1.22,
+    "memory": 806.41,
+    "label": 1
+  },
+  {
+    "sid": 12,
+    "qid": 86,
+    "kid": "10",
+    "response_duration": 584.0,
+    "exec_time": 0.03,
+    "memory": 94.98,
+    "label": 0
+  },
+  {
+    "sid": 12,
+    "qid": 56,
+    "kid": "10",
+    "response_duration": 304.0,
+    "exec_time": 0.0,
+    "memory": 0.0,
+    "label": 1
+  },
+  {
+    "sid": 12,
+    "qid": 17,
+    "kid": "3,10",
+    "response_duration": 183.0,
+    "exec_time": 1.64,
+    "memory": 717.75,
+    "label": 0
+  },
+  {
+    "sid": 12,
+    "qid": 48,
+    "kid": "11,19",
+    "response_duration": 422.0,
+    "exec_time": 0.0,
+    "memory": 0.0,
+    "label": 0
+  },
+  {
+    "sid": 13,
+    "qid": 9,
+    "kid": "4,14,15,17",
+    "response_duration": 314.0,
+    "exec_time": 0.03,
+    "memory": 23.14,
+    "label": 1
+  },
+  {
+    "sid": 13,
+    "qid": 79,
+    "kid": "10,20",
+    "response_duration": 237.0,
+    "exec_time": 1.36,
+    "memory": 662.28,
+    "label": 0
+  },
+  {
+    "sid": 13,
+    "qid": 21,
+    "kid": "10",
+    "response_duration": 128.0,
+    "exec_time": 1.35,
+    "memory": 726.27,
+    "label": 1
+  },
+  {
+    "sid": 14,
+    "qid": 90,
+    "kid": "9,10",
+    "response_duration": 19.0,
+    "exec_time": 0.04,
+    "memory": 95.54,
+    "label": 1
+  },
+  {
+    "sid": 14,
+    "qid": 81,
+    "kid": "7,10,20",
+    "response_duration": 45.0,
+    "exec_time": 1.7,
+    "memory": 840.82,
+    "label": 1
+  },
+  {
+    "sid": 14,
+    "qid": 11,
+    "kid": "3,10",
+    "response_duration": 7240.0,
+    "exec_time": 1.36,
+    "memory": 749.86,
+    "label": 0
+  },
+  {
+    "sid": 14,
+    "qid": 23,
+    "kid": "10",
+    "response_duration": 22.0,
+    "exec_time": 2.03,
+    "memory": 839.65,
+    "label": 1
+  },
+  {
+    "sid": 15,
+    "qid": 8,
+    "kid": "4,14,16",
+    "response_duration": 843.0,
+    "exec_time": 0.04,
+    "memory": 23.15,
+    "label": 1
+  },
+  {
+    "sid": 15,
+    "qid": 31,
+    "kid": "10",
+    "response_duration": 257.0,
+    "exec_time": 1.44,
+    "memory": 845.51,
+    "label": 0
+  },
+  {
+    "sid": 15,
+    "qid": 23,
+    "kid": "10",
+    "response_duration": 410.0,
+    "exec_time": 1.63,
+    "memory": 840.66,
+    "label": 1
+  },
+  {
+    "sid": 16,
+    "qid": 30,
+    "kid": "10",
+    "response_duration": 164.0,
+    "exec_time": 1.51,
+    "memory": 851.17,
+    "label": 1
+  },
+  {
+    "sid": 16,
+    "qid": 22,
+    "kid": "10",
+    "response_duration": 188.0,
+    "exec_time": 1.36,
+    "memory": 808.8,
+    "label": 1
+  },
+  {
+    "sid": 16,
+    "qid": 6,
+    "kid": "4,13,14",
+    "response_duration": 70193.0,
+    "exec_time": 0.03,
+    "memory": 23.14,
+    "label": 1
+  },
+  {
+    "sid": 16,
+    "qid": 102,
+    "kid": "10,19",
+    "response_duration": 283.0,
+    "exec_time": 0.05,
+    "memory": 96.93,
+    "label": 1
+  },
+  {
+    "sid": 16,
+    "qid": 3,
+    "kid": "3,7,8,9",
+    "response_duration": 122.0,
+    "exec_time": 0.0,
+    "memory": 0.0,
+    "label": 1
+  },
+  {
+    "sid": 16,
+    "qid": 59,
+    "kid": "10",
+    "response_duration": 26.0,
+    "exec_time": 0.0,
+    "memory": 0.0,
+    "label": 1
+  },
+  {
+    "sid": 17,
+    "qid": 30,
+    "kid": "10",
+    "response_duration": 120.0,
+    "exec_time": 1.58,
+    "memory": 728.73,
+    "label": 0
+  },
+  {
+    "sid": 17,
+    "qid": 81,
+    "kid": "7,10,20",
+    "response_duration": 74.0,
+    "exec_time": 1.23,
+    "memory": 919.05,
+    "label": 1
+  },
+  {
+    "sid": 17,
+    "qid": 32,
+    "kid": "7,10",
+    "response_duration": 360.0,
+    "exec_time": 1.62,
+    "memory": 896.19,
+    "label": 0
+  },
+  {
+    "sid": 17,
+    "qid": 94,
+    "kid": "10",
+    "response_duration": 114.0,
+    "exec_time": 0.04,
+    "memory": 96.31,
+    "label": 0
+  },
+  {
+    "sid": 17,
+    "qid": 96,
+    "kid": "10,19",
+    "response_duration": 32.0,
+    "exec_time": 0.03,
+    "memory": 95.98,
+    "label": 1
+  },
+  {
+    "sid": 17,
+    "qid": 101,
+    "kid": "10,19",
+    "response_duration": 43.0,
+    "exec_time": 0.05,
+    "memory": 97.41,
+    "label": 1
+  },
+  {
+    "sid": 18,
+    "qid": 45,
+    "kid": "1",
+    "response_duration": 17.0,
+    "exec_time": 0.0,
+    "memory": 0.0,
+    "label": 1
+  },
+  {
+    "sid": 18,
+    "qid": 79,
+    "kid": "10,20",
+    "response_duration": 230.0,
+    "exec_time": 1.21,
+    "memory": 929.8,
+    "label": 0
+  },
+  {
+    "sid": 18,
+    "qid": 56,
+    "kid": "10",
+    "response_duration": 142.0,
+    "exec_time": 0.0,
+    "memory": 0.0,
+    "label": 0
+  },
+  {
+    "sid": 18,
+    "qid": 51,
+    "kid": "10,19",
+    "response_duration": 488.0,
+    "exec_time": 0.02,
+    "memory": 97.75,
+    "label": 1
+  },
+  {
+    "sid": 18,
+    "qid": 97,
+    "kid": "10,19",
+    "response_duration": 39.0,
+    "exec_time": 0.04,
+    "memory": 97.49,
+    "label": 1
+  },
+  {
+    "sid": 18,
+    "qid": 99,
+    "kid": "8,10",
+    "response_duration": 18.0,
+    "exec_time": 0.03,
+    "memory": 96.01,
+    "label": 1
+  },
+  {
+    "sid": 19,
+    "qid": 79,
+    "kid": "10,20",
+    "response_duration": 651.0,
+    "exec_time": 1.64,
+    "memory": 880.9,
+    "label": 0
+  },
+  {
+    "sid": 19,
+    "qid": 81,
+    "kid": "7,10,20",
+    "response_duration": 206.0,
+    "exec_time": 1.39,
+    "memory": 777.24,
+    "label": 0
+  },
+  {
+    "sid": 19,
+    "qid": 90,
+    "kid": "9,10",
+    "response_duration": 118.0,
+    "exec_time": 0.03,
+    "memory": 96.46,
+    "label": 1
+  },
+  {
+    "sid": 19,
+    "qid": 23,
+    "kid": "10",
+    "response_duration": 243.0,
+    "exec_time": 2.25,
+    "memory": 934.26,
+    "label": 0
+  },
+  {
+    "sid": 19,
+    "qid": 102,
+    "kid": "10,19",
+    "response_duration": 156.0,
+    "exec_time": 0.04,
+    "memory": 96.31,
+    "label": 1
+  },
+  {
+    "sid": 19,
+    "qid": 58,
+    "kid": "10",
+    "response_duration": 118.0,
+    "exec_time": 0.0,
+    "memory": 0.0,
+    "label": 0
+  },
+  {
+    "sid": 19,
+    "qid": 9,
+    "kid": "4,14,15,17",
+    "response_duration": 417.0,
+    "exec_time": 0.05,
+    "memory": 26.63,
+    "label": 1
+  },
+  {
+    "sid": 20,
+    "qid": 81,
+    "kid": "7,10,20",
+    "response_duration": 464.0,
+    "exec_time": 1.34,
+    "memory": 741.88,
+    "label": 1
+  },
+  {
+    "sid": 20,
+    "qid": 89,
+    "kid": "10",
+    "response_duration": 128.0,
+    "exec_time": 0.03,
+    "memory": 104.57,
+    "label": 1
+  },
+  {
+    "sid": 20,
+    "qid": 94,
+    "kid": "10",
+    "response_duration": 253.0,
+    "exec_time": 0.03,
+    "memory": 98.46,
+    "label": 1
+  },
+  {
+    "sid": 20,
+    "qid": 53,
+    "kid": "10,19",
+    "response_duration": 650.0,
+    "exec_time": 0.04,
+    "memory": 98.02,
+    "label": 1
+  },
+  {
+    "sid": 20,
+    "qid": 98,
+    "kid": "10,19",
+    "response_duration": 744.0,
+    "exec_time": 0.02,
+    "memory": 96.42,
+    "label": 1
+  },
+  {
+    "sid": 20,
+    "qid": 104,
+    "kid": "10",
+    "response_duration": 65.0,
+    "exec_time": 0.05,
+    "memory": 96.96,
+    "label": 1
+  }
+]
